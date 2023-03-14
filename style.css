@@ -36,7 +36,6 @@ html{
 
 @media screen and (min-width:1000px) {
   .main-content{
-    border: 2px solid red;
     width: 50%;
   }
 }
